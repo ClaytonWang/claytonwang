@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Welcome! It's a nice day , right? let's begin coding !
 <!--
 **ClaytonWang/claytonwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
